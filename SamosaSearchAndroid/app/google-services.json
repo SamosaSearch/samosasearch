@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "216073907965-s4iii400fr2gpku699q7c5me5q32t33q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samosasearch.samosasearchmcgill",
+            "certificate_hash": "127e4dffa5e6fe8e08ea009ab25242dabfad63e9"
+          }
+        },
+        {
           "client_id": "216073907965-dim57tjoci933sfi63tite1m92766l55.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216073907965-dim57tjoci933sfi63tite1m92766l55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
