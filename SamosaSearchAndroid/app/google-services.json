@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "216073907965",
+    "firebase_url": "https://samosa-search.firebaseio.com",
+    "project_id": "samosa-search",
+    "storage_bucket": "samosa-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216073907965:android:cfa72b0fbb6ad1ca",
+        "android_client_info": {
+          "package_name": "com.samosasearch.samosasearchmcgill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216073907965-dim57tjoci933sfi63tite1m92766l55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iIJC9lraTh55HNatJ37rd-J-snAk1YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

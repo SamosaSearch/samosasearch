@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SamosaSearchAndroid.iml" filepath="$PROJECT_DIR$/SamosaSearchAndroid.iml" />
+      <module fileurl="file://C:\Users\Elizabeth Roy\Desktop\samosa\samosasearch\SamosaSearchAndroid\SamosaSearchAndroid.iml" filepath="C:\Users\Elizabeth Roy\Desktop\samosa\samosasearch\SamosaSearchAndroid\SamosaSearchAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Elizabeth Roy\Desktop\samosa\samosasearch\SamosaSearchAndroid\app\app.iml" filepath="C:\Users\Elizabeth Roy\Desktop\samosa\samosasearch\SamosaSearchAndroid\app\app.iml" />
     </modules>
   </component>
 </project>
